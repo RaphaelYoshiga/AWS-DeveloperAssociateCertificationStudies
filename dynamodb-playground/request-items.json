@@ -1,0 +1,14 @@
+{
+    "Starships": {
+        "Keys": [
+            {
+                "ShipClass": {"S": "Crossfield"},
+                "Registry": {"S": "NCC-1030" }
+            },
+            {
+                "ShipClass": {"S": "Crossfield"},
+                "Registry": {"S": "NCC-1029" }
+            }
+        ]
+    }
+}

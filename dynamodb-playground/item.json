@@ -1,0 +1,14 @@
+ {
+  "Registry": {
+    "S": "NCC-15633"
+  },
+  "Name": {
+    "S": "Yoshi ship"
+  },
+  "ShipClass": {
+    "S": "Yoshi"
+  },
+  "Description": {
+    "S": "Yoshi rocks!"
+  }
+}
